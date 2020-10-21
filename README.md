@@ -1,1 +1,3 @@
-# ud120-text-learning.ipynb
+# ud120
+
+https://classroom.udacity.com/courses/ud120
